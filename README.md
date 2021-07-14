@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amir-Pasha-Bagheri
 - 👀 I’m interested in Gaming and Web Developing !
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently improving my React js ability
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 Phone Number : +989373452374
